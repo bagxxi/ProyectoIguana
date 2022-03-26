@@ -1,0 +1,215 @@
+body{
+    background-color: #000000;
+}
+header{
+    width: 1280px;
+    height: 73px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+h1{
+    /* UI Properties */
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+    font-weight: 500;
+}
+
+#firstsec{
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+    background: transparent url('../img/bg-header.jpg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-weight: 300;
+}
+
+#secondsect {
+    display: flex;
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#iguana1 {
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    opacity: 1;
+}
+
+#iguanatext {
+    padding-left: 150px;
+    padding-top: 76px;
+    padding-bottom: 75px;
+    padding-right: 197px;
+}
+
+#iguanaimage {
+    padding-right: 150px;
+    padding-top: 45px;
+    padding-bottom: 66px;
+}
+
+#thirdsec{
+    top: 1141px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding-top: 75px;
+}
+
+h3 {
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+nav {
+    display: inline;
+    text-align: center;
+}
+
+.icontext {
+    display: inline-block;
+    padding-bottom: 74px;
+}
+
+#ico1 {
+    padding-left: 326px;
+    padding-bottom: 16.36px;
+}
+
+#ico2 {
+    padding-left: 215px;
+    padding-bottom: 16.36px;
+}
+
+#ico3 {
+    padding-left: 230px;
+    padding-bottom: 16.36px;
+    padding-right: 300px;
+}
+
+#text1{
+    padding-left: 301px;
+}
+
+#text2{
+    padding-left: 182px;
+}
+
+#text3{
+    padding-left: 140px;
+}
+
+#last {
+    top: 1561px;
+    left: 814px;
+    width: 316px;
+    height: 202px;
+    /* UI Properties */
+    opacity: 1;
+    padding-top: 73px;
+    padding-bottom: 73px;
+    padding-right: 150px;
+    padding-left: 10px;
+}
+
+#mid{
+    top: 1561px;
+    left: 482px;
+    width: 316px;
+    height: 202px;
+    /* UI Properties */
+    opacity: 1;
+    padding-top: 73px;
+    padding-bottom: 73px;
+}
+
+#init {
+    /* Layout Properties */
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+    /* UI Properties */
+    opacity: 1;
+    padding-left: 150px;
+    padding-right: 10px;
+    padding-top: 73px;
+    padding-bottom: 73px;
+}
+
+#fourthsec {
+    /* Layout Properties */
+    top: 1488px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    /* UI Properties */
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 0.96;
+}
+
+.imagenotext {
+    display: inline-block;
+}
+
+footer{
+    /* Layout Properties */
+    top: 1835px;
+    left: 0px;
+    width: 1280px;
+    height: 102px;
+    /* UI Properties */
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+}
+
+#footext {
+    padding-top: 39px;
+    padding-bottom: 39px;
+    padding-left: 299px;
+    padding-right: 299px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+a{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-weight: 300;
+}
